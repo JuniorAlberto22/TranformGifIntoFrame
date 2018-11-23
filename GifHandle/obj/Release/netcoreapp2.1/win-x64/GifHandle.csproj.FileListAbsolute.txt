@@ -1,0 +1,10 @@
+C:\Users\Alberto\source\repos\GifHandle\GifHandle\bin\Release\netcoreapp2.1\win-x64\GifHandle.deps.json
+C:\Users\Alberto\source\repos\GifHandle\GifHandle\bin\Release\netcoreapp2.1\win-x64\GifHandle.runtimeconfig.json
+C:\Users\Alberto\source\repos\GifHandle\GifHandle\bin\Release\netcoreapp2.1\win-x64\GifHandle.runtimeconfig.dev.json
+C:\Users\Alberto\source\repos\GifHandle\GifHandle\bin\Release\netcoreapp2.1\win-x64\GifHandle.dll
+C:\Users\Alberto\source\repos\GifHandle\GifHandle\bin\Release\netcoreapp2.1\win-x64\GifHandle.pdb
+C:\Users\Alberto\source\repos\GifHandle\GifHandle\obj\Release\netcoreapp2.1\win-x64\GifHandle.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\source\repos\GifHandle\GifHandle\obj\Release\netcoreapp2.1\win-x64\GifHandle.AssemblyInfoInputs.cache
+C:\Users\Alberto\source\repos\GifHandle\GifHandle\obj\Release\netcoreapp2.1\win-x64\GifHandle.AssemblyInfo.cs
+C:\Users\Alberto\source\repos\GifHandle\GifHandle\obj\Release\netcoreapp2.1\win-x64\GifHandle.dll
+C:\Users\Alberto\source\repos\GifHandle\GifHandle\obj\Release\netcoreapp2.1\win-x64\GifHandle.pdb
